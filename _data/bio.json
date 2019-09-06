@@ -85,6 +85,14 @@
     }
   ],
   "work": [
+     {
+      "company": "Times Supermarkets, Millilani",
+      "position": "Pastry Clerk",
+      "website": "https://www.timessupermarkets.com/mililani-times/",
+      "startDate": "2019-07-31",
+      "endDate": "Present",
+      "summary": "Trained cashier and helps any customer if needed."
+    },
     {
       "company": "Kumon, North America",
       "position": "Assistant Tutor",
@@ -92,29 +100,9 @@
       "startDate": "2017-06-30",
       "endDate": "Present",
       "summary": "Assist kids ranging from elementary school to high school in math and reading"
-    },
-    {
-      "company": "Times Supermarkets, Millilani",
-      "position": "Pastry Clerk",
-      "website": "https://www.timessupermarkets.com/mililani-times/",
-      "startDate": "2019-07-31",
-      "endDate": "Present",
-      "summary": "Trained cashier and helps any customer if needed."
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
     {
       "organization": "",
       "website": "",
