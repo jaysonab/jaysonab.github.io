@@ -63,6 +63,16 @@
     }
   ],
   "education": [
+     {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
     {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Liberal Arts",
@@ -70,16 +80,6 @@
       "startDate": "2017-08-30",
       "endDate": "2019-05-10",
       "gpa": "4.0",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2019-08-26",
-      "endDate": "Present",
-      "gpa": "",
       "courses": [
       ]
     }
