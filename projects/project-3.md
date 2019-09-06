@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/saxophone.jpg
+title: Band
+permalink: projects/band
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-05-13
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Teamwork
+summary: Learned teamwork throughout my six years playing in my school's band by being the member that contributes nothing and changing to be a member that gives their all.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+# Contributing Nothing #
+I won't lie and say that I've always been a person that gives it my all towards everything I do, because that's not how I am as a person. I have faults and I've had times where I've wanted nothing to do with anything and band was just that. I was first forced to sign up for band as my parents wanted me to participate in something that involved dealing with others rather than just myself. As I signed up, I chose saxophone as my instrument and continued the year dedicating no time. By the end of my first year, I was almost last in standings in terms of saxophone ranking, and I continued to be like that until my third year. At the school I attended, there were three tiers of bands: freshman, wind II, and wind I. I was in the freshman band and decided to stay after our required time to hear what wind I sounded like. It blew my mind how different and on point the whole band sounded. The band was acting as a single unit, flowing in and out of parts unlike anything I heard or experienced live myself. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+# Retribution and Lessons # 
+<img class="ui medium right floated rounded image" src="../images/repetition.jpg">
+If there's anything that thrives off of an athletic pedagogy type training, that'd be band and practicing an instrument. In my third year, I started practicing and eventually became the first chair for the tenor saxophone, the indivdiual that performs the best on that instrument. The ending of that year, I tested to place into wind I, and I got accepted. However, when I got in, it was different from how I imagined. The songs were a lot harder, and the people were a lot more dedicated. Everyone took lessons on the side to get their own parts down, dedicated hours of outside time, and spent the entire class session focused. It was a group that wanted to be there. I started practicing everyday myself and asked my instructor for help on timings or parts of music that got too difficult for me to handle myself. I spent my free time during school in the band room setting up and practicing. I did that for the following two years until I graduated and played my last part in the final song. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+There's nothing better than something finally clicking, and music clicks beautifully when every part is done at the right time. Just hearing an individual be off can be painstaking to hear often, and that was me. However, I eventually became part of the well-oiled machine that was wind I, the band that inspired me to try and achieve what they could achieve. I learned fundamental motivation skills and the meaning of teamwork since spending time on one part for hours can be detrimental in a group setting. There has to be as much effort from all parties to succeed.
