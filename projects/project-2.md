@@ -7,11 +7,10 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Leadership
+  - Quick Thinking
+  - Public Speaking
+summary: Responsible of a big final project that included a 20 minute presentation.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
