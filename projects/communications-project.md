@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/presentation.png
 title: Communications Final Project
-permalink: projects/communication
+permalink: projects/finalproject
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-02
 labels:
