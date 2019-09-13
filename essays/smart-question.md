@@ -19,3 +19,6 @@ Well, yes, but also no. We need to realize what information is relevant to the q
 </div>
 
 The user's title is "What's that mean each code" and their only questions are "What that mean," and "and static let ?" This leaves little information for any responder to reply with a proper answer. There is no information about what the exact issue is aside from, "UInt32 = 0x1 << 1 ?" and "and static let ?". There's nothing about what they specifically don't understand since the title lacks any information in the title and the body. Someone was kind enough to give an example of what the "<<" does within the code itself, but that was the post's only response. A question that's poorly done gives off the impression that the individual asking the question doesn't want to put effort into trying to learn something new. So why should anyone give even more effort to explain something to that individual?
+
+# So What Then? #
+How can a question be done right? Well that's a little complicated. Since having <i>too<i> much information or having <i>too</i> litle can be a deteriment, it can be hard to pinpoint what's exactly relevant if we're confused in the first place, but let's look at [one](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) that's asked in an excellent way.
