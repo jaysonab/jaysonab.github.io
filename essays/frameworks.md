@@ -25,6 +25,6 @@ In all honesty, learning the framework was an insightful experience that taught 
 
 Hey, what's that over there?
 
-<img class="ui image" src="{{ site.baseurl }}/images/frameworkmeme.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/frameworkmeme.jpg">
 
 I'll just climb back down and save that for another time..
