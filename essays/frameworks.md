@@ -18,7 +18,7 @@ Semantic is like going on a long, hilly hike. The beginning if filled with excit
 
 <b>Don't even get me started on the amount of divs needed.</b>
 
-The numerous amount of <i><div></i> tags needed to separate and create each individual object kills me a little each time I have to make a new one. I get lost and start fumbling on where I am. I'm now starting to have to backtrace the hike, but not even know where I am. There's a sense of redundancy when writing the code, since everything looks so similar, but creates different things. But alas, there's an end in sight to this pain of a hike.
+The numerous amount of ```<div>``` tags needed to separate and create each individual object kills me a little each time I have to make a new one. I get lost and start fumbling on where I am. I'm now starting to have to backtrace the hike, but not even know where I am. There's a sense of redundancy when writing the code, since everything looks so similar, but creates different things. But alas, there's an end in sight to this pain of a hike.
 
 # Look, the peak! #
 In all honesty, learning the framework was an insightful experience that taught me how there are numerous approaches to coding, and even tools that can make things easier. This is my first time using a framework, and it was imported which restricted some capabilities, but creating designs with that was great in itself. I can only imagine the products that can be done with free control. I'm enjoying the view at the end of this hike. 
