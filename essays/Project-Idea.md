@@ -37,6 +37,9 @@ Mockup pages include:
 
 <li>New user goes to landing page, registers, User home page, User profile page</li>
 <li>Admin user goes to landing page, login, Admin home page, and is able to monitor the site</li>
- <li>Returning user goes to landing page, logs in, and browses books through list item page</li>
+<li>Returning user goes to landing page, logs in, and browses books through list item page</li>
   
 ## Beyond the basics
+<li>Special Sauce can be a rating system for users to rate other users to filter out bad sellers and reliability.</li>
+<li>There can be a map feature to show users where the seller is located and suggest meeting spots.</li>
+<li>The site also has courses and lists the books required for each course</li>
