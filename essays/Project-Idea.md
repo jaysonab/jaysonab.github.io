@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-# Textbook Resell
+## Book Adoption House
 
 ## Overview
 <i>The problem:</i> Classes require students to spend money on textbooks with no dependable buy-back opprotunity at a decent buy-back price. Tragically, there's centralized location to advertise their old textbooks to other students.
