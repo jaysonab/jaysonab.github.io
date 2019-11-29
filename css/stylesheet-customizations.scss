@@ -14,6 +14,12 @@ body {
   background-size: cover;
 }
 
+#image {
+  border: 3px solid #27A822;
+  border-radius: 500px;
+  max-width: 225px;
+}
+
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;]
