@@ -7,15 +7,22 @@
 
 // Customize the background color
 body {
-  background-color: #d5ede4; //mint
+  background-color: #FFFFFF; //white
   //background-color: #E8E8E8;
   //background: linear-gradient(to bottom, #99ccff 0%, #99ffcc 100%);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+#top-home {
+  border: 5px solid #d5ede4;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
 #image {
-  border: 3px solid #27A822;
+  border: 3px solid #d5ede4; //mint
   border-radius: 500px;
   max-width: 225px !important;
 }
