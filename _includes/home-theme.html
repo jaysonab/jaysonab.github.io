@@ -5,6 +5,23 @@
 {% assign num_projects = project_pages.size %}
 
 <div id="home">
+  <div id="ui three item menu">
+    <a href="{{ site.baseurl}}/files/nov_2019.pdf" target="_blank" class="item">
+      <p class="menu-buttons">
+        Resume
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/essays/" class="item">
+      <p class="menu-buttons">
+        Essays
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/projects/" class="item">
+      <p class="menu-buttons">
+        Projects
+      </p>
+    </a>
+  </div>
 <div style="height: 100%;" class="ui middle aligned two column centered stackable grid container">
 
   <div style="text-align: center" class="column">
@@ -19,24 +36,8 @@
     <p class="">
       {{ site.data.bio.basics.summary }}
     </p>
-    <p>Interests:
-      {% for interest in site.data.bio.interests %}
-        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </p>
     <p style="text-align: center">
       {% include home-network-links.html %}
-    </p>
-    <p style="text-align: center">
-      <a href="{{ site.baseurl}}/projects/">
-        <button class="ui basic button">Projects ({{ num_projects }})</button>
-      </a>
-      <a href="{{ site.baseurl}}/essays/">
-        <button class="ui basic button">Essays ({{ num_essays }})</button>
-      </a>
-      <a href="{{ site.baseurl}}/files/nov_2019.pdf" target="_blank">
-        <button class="ui basic button">{{ site.bio-page-label }}</button>
-      </a>
     </p>
   </div>
 </div>

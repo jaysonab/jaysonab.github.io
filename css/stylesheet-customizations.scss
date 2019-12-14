@@ -5,6 +5,8 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
+// ~~~~~~~~~~~~~~~~~~~~~ //
+//  HOME PAGE CSS STARTS //
 // Customize the background color
 body {
   background-color: #FFFFFF; //white
@@ -15,7 +17,8 @@ body {
 }
 
 #middle-text {
-  font-family: 'Solway', 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+  padding-left: 260px;
 }
 
 #home {
@@ -30,13 +33,42 @@ body {
   border-radius: 500px;
 }
 
+.menu-buttons {
+  font-family: 'Roboto', 'Helvetica Neue', sans-serif !important;
+  font-size: 20px;
+  color: #000 !important;
+  float: right;
+  padding: 10px;
+}
+
+p.menu-buttons:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #d5ede4;
+  transition: width .75s;
+}
+
+p.menu-buttons:hover:after {
+  width: 100%;
+}
+
+.ui.fluid.centered.circular.image {
+  margin-top: -50px;
+  padding-left: 250px;
+}
+// Customize the home page icon colors
+.icon-color {
+   color: #000000;
+}
+
+// HOME PAGE CSS ENDS //
+// ~~~~~~~~~~~~~~~~~~ //
+
+
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;]
   background : #7a8999; // grayish
-}
-
-// Customize the home page icon colors
-.icon-color {
-   color: #000000;
 }
