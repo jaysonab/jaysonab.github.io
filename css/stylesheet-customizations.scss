@@ -19,7 +19,7 @@
 // MENU CSS STARTS //
 // ~~~~~~~~~~~~~~~ //
 .menu-buttons {
-  font-family: 'Roboto', 'Helvetica Neue', sans-serif !important;
+  font-family: 'Noto Serif', serif !important;
   font-size: 20px;
   color: #000 !important;
   float: right;
@@ -53,8 +53,22 @@ body {
   background-size: cover;
 }
 
+#name {
+  font-size: 100px;
+}
+
+#label {
+//   padding-left: 100px;
+  font-size: 30px;
+}
+
+#home-icons {
+  padding-left: 150px;
+}
+
 #middle-text {
-  font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+  font-family: 'Serif', 'Helvetica Neue', sans-serif;
+  padding-left: 400px;
 }
 
 #border-home {
@@ -70,9 +84,9 @@ body {
 }
 
 .ui.fluid.centered.circular.image {
-  margin-top: -50px;
-  padding-left: 120px;
+  padding-left: 50px !important;
 }
+
 // Customize the home page icon colors
 .icon-color {
    color: #000000;
