@@ -8,7 +8,7 @@
 // GLOBAL CSS STARTS //
 // ~~~~~~~~~~~~~~~~~ //
 .border-other {
-  border: 7px solid #d5ede4; // gives it the border at top and bottom
+  border-top: 10px solid #d5ede4; // gives it the border at top and bottom
   height: 200vh;
   left: 0;
   right: 0;
@@ -55,11 +55,10 @@ body {
 
 #middle-text {
   font-family: 'Roboto', 'Helvetica Neue', sans-serif;
-  padding-left: 260px;
 }
 
 #border-home {
-  border: 7px solid #d5ede4; // gives it the border at top and bottom
+  border: 10px solid #d5ede4; // gives it the border at top and bottom
   height: 100vh;
   left: 0;
   right: 0;
@@ -72,7 +71,7 @@ body {
 
 .ui.fluid.centered.circular.image {
   margin-top: -50px;
-  padding-left: 250px;
+  padding-left: 120px;
 }
 // Customize the home page icon colors
 .icon-color {
