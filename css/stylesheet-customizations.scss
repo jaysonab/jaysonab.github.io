@@ -54,7 +54,7 @@ body {
 }
 
 #name {
-  font-size: 100px;
+  font-size: 80px;
 }
 
 #label {
@@ -62,13 +62,12 @@ body {
   font-size: 30px;
 }
 
-#home-icons {
-  padding-left: 150px;
+#home-middle {
+  padding-left: 300px;
 }
 
-#middle-text {
-  font-family: 'Serif', 'Helvetica Neue', sans-serif;
-  padding-left: 400px;
+#home-icons {
+  padding-left: 100px;
 }
 
 #border-home {
@@ -83,8 +82,25 @@ body {
   border-radius: 500px;
 }
 
-.ui.fluid.centered.circular.image {
+#middle-text {
+  font-family: 'Serif', 'Helvetica Neue', sans-serif;
+  float: middle;
+  padding-top: 170px;
+}
+
+.ui.fluid.circular.image {
   padding-left: 50px !important;
+  padding-top: 150px;
+}
+
+.huge.icon:hover {
+  color: #d5ede4 !important;
+}
+
+.huge.icon {
+  color: #000000 !important;
+  padding-top: 10px;
+  padding-left: 20px;
 }
 
 // Customize the home page icon colors
