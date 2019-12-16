@@ -9,7 +9,6 @@
 // ~~~~~~~~~~~~~~~~~ //
 .border-other {
   border-top: 10px solid #d5ede4; // gives it the border at top and bottom
-  height: 200vh;
   left: 0;
   right: 0;
 }
@@ -61,6 +60,9 @@ body {
 //   padding-left: 100px;
   font-size: 30px;
 }
+
+#summary {
+font-size: 20px;}
 
 #home-middle {
   padding-left: 300px;

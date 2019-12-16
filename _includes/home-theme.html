@@ -6,7 +6,10 @@
 
 <div id="border-home">
   <div id="ui three item menu">
-    <a href="{{ site.baseurl}}/files/nov_2019.pdf" target="_blank" class="item">
+<!--    <a href="{{ site.baseurl}}/files/nov_2019.pdf" target="_blank" class="item">-->
+    <!-- REPLACE THIS -->
+    <a class="item" href="{{ site.baseurl}}/bio/">
+      <!-- REPLACE THIS -->
       <p class="menu-buttons">
         Resume
       </p>
@@ -37,18 +40,24 @@
   </div>
     </div>
 
-    <div class="ten wide column">
+    <div class="ten wide left aligned column">
   <div id="middle-text">
     <h2 id="name" class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
     <p id="label" class="">{{ site.data.bio.basics.label }}</p>
-<!--    <p class="">-->
-<!--      {{ site.data.bio.basics.summary }}-->
-<!--    </p>-->
+    <!-- REMOVE THIS SECTION -->
+    <p id="summary" class="">
+      {{ site.data.bio.basics.summary }}
+    </p>
+    <p id="interests" class="">Interests:
+      {% for interest in site.data.bio.interests %}
+      {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+      {% endfor %}
+    </p>
+    <!-- REMOVE THIS SECTION -->
     <p id="home-icons" style="text-align: left">
       {% include home-network-links.html %}
     </p>
   </div>
-<!--    </div>-->
 </div>
 </div>
 </div>
