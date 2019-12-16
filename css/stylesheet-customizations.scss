@@ -18,7 +18,7 @@
 // MENU CSS STARTS //
 // ~~~~~~~~~~~~~~~ //
 .menu-buttons {
-  font-family: 'Noto Serif', serif !important;
+  font-family: 'Quicksand', serif !important;
   font-size: 20px;
   color: #000 !important;
   float: right;
@@ -53,6 +53,7 @@ body {
 }
 
 #name {
+  font-family: 'Oxygen', serif !important;
   font-size: 80px;
 }
 
@@ -81,7 +82,8 @@ font-size: 20px;}
 }
 
 #middle-text {
-  font-family: 'Serif', 'Helvetica Neue', sans-serif;
+  font-family: 'Raleway', serif !important;
+//   font-family: 'Serif', 'Helvetica Neue', sans-serif;
   float: middle;
   padding-top: 170px;
 }
@@ -113,6 +115,14 @@ font-size: 20px;}
 // ~~~~~~~~~~~~~~~~~~~~~~~~ //
 #projects {
   padding-top: 50px;
+}
+
+.project-text {
+  font-family: 'Raleway', 'Helvetica Neue', sans-serif !important;
+}
+
+.ui.text.container {
+  max-width: 900px !important;
 }
 
 // Customize the menubar color
