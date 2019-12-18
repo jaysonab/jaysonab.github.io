@@ -31,7 +31,10 @@
     </div>
   </div>
 
-  <div class="ui two column centered grid container">
+  <div class="center-grid" style="
+    display: flex;
+    width: 100vw !important">
+  <div class="ui three column centered grid container">
 <!--  <div class="ui fluid container">-->
     <div class="six wide center aligned column">
     <div class="ui fluid circular image">
@@ -39,7 +42,7 @@
   </div>
     </div>
 
-    <div class="ten wide left aligned column">
+<div class="ten wide left aligned column">
   <div id="middle-text">
     <h2 id="name" class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
     <p id="label" class="">{{ site.data.bio.basics.label }}</p>
@@ -57,6 +60,7 @@
       {% include home-network-links.html %}
     </p>
   </div>
+</div>
 </div>
 </div>
 </div>
