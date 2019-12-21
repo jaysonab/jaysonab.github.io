@@ -11,11 +11,6 @@
         Resume
       </p>
     </a>
-    <a href="{{ site.baseurl}}/essays/" class="item">
-      <p class="menu-buttons">
-        Essays
-      </p>
-    </a>
     <a href="{{ site.baseurl}}/projects/" class="item">
       <p class="menu-buttons">
         Projects
@@ -43,16 +38,6 @@
   <div id="middle-text">
     <h2 id="name" class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
     <p id="label" class="">{{ site.data.bio.basics.label }}</p>
-    <!-- REMOVE THIS SECTION -->
-    <p id="summary" class="">
-      {{ site.data.bio.basics.summary }}
-    </p>
-    <p id="interests" class="">Interests:
-      {% for interest in site.data.bio.interests %}
-      {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </p>
-    <!-- REMOVE THIS SECTION -->
     <p id="home-icons" style="text-align: left">
       {% include home-network-links.html %}
     </p>

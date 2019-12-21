@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/kumon.png
 title: Tutoring
+published: false
 permalink: projects/kumon
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-18

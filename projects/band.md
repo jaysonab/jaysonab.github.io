@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/saxophone.jpg
 title: Band
+published: false
 permalink: projects/band
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-13
