@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Johnsonslist.png
-title: Freedom By Design: Treat Street
+title: "Freedom By Design: Treat Street"
 permalink: projects/Street
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-15
