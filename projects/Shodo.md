@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Johnsonslist.png
-title: Johnsonslist
-permalink: projects/Johnsonslist
+title: Nature Shodo Gallery
+permalink: projects/Shodo
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-15
 labels:
